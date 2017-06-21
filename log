@@ -2,4 +2,6 @@
         
      6/21/2017: on Mac VM(host-windows)
      Mac Build needs -DUSE_OPENCV=OFF
+     
      iOS Build needs -DUSE_NNPACK=OFF
+     (https://github.com/caffe2/caffe2/issues/298)
